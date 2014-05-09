@@ -40,8 +40,8 @@ config.action_mailer.smtp_settings = {
   :port           => 587,
   :domain         => 'gmail.com',
   :authentication => :login,
-  :user_name      => 'mailerfacecado@gmail.com',
-  :password       => '123abc@a113'
+  :user_name      => 'youremail@gmail.com',
+  :password       => 'password'
 }
 
 end
