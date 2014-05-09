@@ -7,9 +7,9 @@ Configure your smtp server in
 
 To start servers, run 
 
-whenever --update-crontab
-	and 	
-bundle exec sidekiq
+ whenever --update-crontab 	
+and 
+ bundle exec sidekiq
 
 
 
